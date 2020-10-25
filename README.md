@@ -1,2 +1,2 @@
 # Personal-Loan-
-its tells about whether a person  takes a personal loan  or not
+we were going to learn about whether a person  takes a personal loan  or not
