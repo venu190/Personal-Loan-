@@ -6,3 +6,6 @@ mul = x*y
 print(mul)
 
 # add
+#all
+
+
